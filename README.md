@@ -10,6 +10,7 @@ A simple example of a Python project setup in git
 * pip install --upgrade pip
 * pip install -r ./requirements.txt
 * Open pycharm and open root folder i.e python_example
+* run hello.py or numpy_example.py
 
 
 
