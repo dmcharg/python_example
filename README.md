@@ -3,6 +3,9 @@ A simple example of a Python project setup in git. Before executing the steps be
 and the appropriate version of python installed that you want to use. Note that it may seem confusing that you need
 python installed in order to create a python virtual environment. 
 
+* You can download git here - https://git-scm.com
+* You can download python here - https://www.python.org/downloads/
+
 When you install python be default there will be a lib dir and under this you will find site packages folder which
 is the location that pip will install libraries. In order to prevent all libraries being installed here you create a 
 python virtual environment which has a full copy of python and its own site packages. This ensures that pip install
