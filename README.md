@@ -20,8 +20,12 @@ test out new version of python and libraries by having different python environm
 * source myenv/bin/activate
 * pip install --upgrade pip
 * pip install -r ./requirements.txt
-* Open pycharm and open root folder i.e python_example
+* Open pycharm, vscode or your ide/editor of choice and open root folder i.e python_example
+* Make sure you select/use myenv as your python environment
 * run hello.py or numpy_example.py
+* At the command cd python_example then source myenv/bin/activite or run activate.bat on windows
+* run pip list and it should show python package installed in your venv. You can install additional libraries by running pip install <library name>
+ 
 
 
 
